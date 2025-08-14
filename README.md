@@ -22,7 +22,7 @@
 - 📫 How to reach me **methumminsukalinkedin@gmail.com**
       </td>
       <td width="50%" align="center">
-        <img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
+        <img align="center" alt="Coding" width="450" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
       </td>
     </tr>
   </table>
